@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/n-queens/
+
 #include<iostream>
 #include"../inc/solution.h"
 
